@@ -3,6 +3,8 @@
 We'd love to accept your patches, contributions and suggestions to this project.
 Here are a few small guidelines you need to follow.
 
+When creating or chaging a template make sure to also update the corresponding example in the `examples` directory and also test your changes!
+
 ## Code of conduct
 
 To better foster an open, innovative and inclusive community please refer to our
@@ -19,7 +21,7 @@ before you file a bug to make sure you're not missing any important information.
 
 1. Did you read the documentation?
 2. Did you include the snippet of broken code in the issue?
-3. What are the *EXACT* steps to reproduce this problem?
+3. What are the _EXACT_ steps to reproduce this problem?
 4. What specific version or build are you using?
 5. What operating system are you using?
 
